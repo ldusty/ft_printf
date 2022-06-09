@@ -4,7 +4,7 @@
  Details in [subject](https://github.com/ldusty/ft_printf/blob/main/en.subject.pdf).
  All files must pass the [norminette](https://github.com/42School/norminette) check.
  ## Usage
- ```make```         - to compile
- ```make clean```   - to remove objects
- ```make fclean```  - to remove objects and binary files
+ ```make```         - to compile  
+ ```make clean```   - to remove objects  
+ ```make fclean```  - to remove objects and binary files  
  ```make clean```   - to re-compile
